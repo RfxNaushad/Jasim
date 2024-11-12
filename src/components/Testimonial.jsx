@@ -12,10 +12,10 @@ gsap.registerPlugin(ScrollTrigger);
 const testimonials = [
     {
         id: 1,
-        name: "Angelo G. Perry",
+        name: "Shane Tim",
         role: "Ngeni Lab director",
         subRole: "Lead Developer",
-        quote: "Every interaction with Masum was positive and productive. The final result speaks volumes!",
+        quote: "Every interaction with Jasim was positive and productive. The final result speaks volumes!",
         avatar: "/testimonial_avatar1.png",
     },
     {
@@ -23,15 +23,15 @@ const testimonials = [
         name: "Anton Radchenko",
         role: "Tech Innovators CEO",
         subRole: "Product Strategist",
-        quote: "The experience with Masum was fantastic. We felt supported every step of the way!",
+        quote: "The experience with Jasim was fantastic. We felt supported every step of the way!",
         avatar: "/testimonial_avatar2.png",
     },
     {
         id: 3,
-        name: "Randy Stocklin ",
+        name: "John Stocklin",
         role: "StartUp Ventures Founder",
         subRole: "Software Architect",
-        quote: "Masum’s attention to detail and creative touch made all the difference. We’re beyond satisfied!",
+        quote: "Jasim's attention to detail and creative touch made all the difference. We’re beyond satisfied!",
         avatar: "/testimonial_avatar3.png",
     },
 ];
